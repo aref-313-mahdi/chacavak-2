@@ -1,0 +1,10 @@
+# one
+
+in the name of god the merciful and the compationat
+
+lets start testing the merging file program in python
+this program will merge the txt files in the entered directory and make a word file
+the name of the output file is merged_output.docx
+and this file is in the directory of the txt files;
+
+finish!
